@@ -1,6 +1,6 @@
 # GodlikeMidnight
 
-## Because we care...
+## How thou art fallen...
 
 ### https://godlikemidnight.vercel.app/
 
